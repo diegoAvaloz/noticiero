@@ -64,6 +64,7 @@
                   ?>
                 </a>
               </h3>
+              <img src="<?php echo $internacional["imagen"]; ?>" class="img-fluid my-2" alt="Imagen de la noticia">
               <div class="mb-1 text-muted">
                 <?php
                   echo $internacional["autor"];
@@ -88,6 +89,7 @@
                   ?>
                 </a>
               </h3>
+              <img src="<?php echo $nacional["imagen"]; ?>" class="img-fluid my-2" alt="Imagen de la noticia">
               <div class="mb-1 text-muted">
                 <?php
                   echo $nacional["autor"];
@@ -121,6 +123,7 @@
                   ?>
                 </a>
               </h3>
+              <img src="<?php echo $economia["imagen"]; ?>" class="img-fluid my-2" alt="Imagen de la noticia">
               <div class="mb-1 text-muted">
                 <?php
                   echo $economia["autor"];
@@ -145,6 +148,7 @@
                   ?>
                 </a>
               </h3>
+              <img src="<?php echo $opinion["imagen"]; ?>" class="img-fluid my-2" alt="Imagen de la noticia">
               <div class="mb-1 text-muted">
                 <?php
                   echo $opinion["autor"];
@@ -178,6 +182,7 @@
                   ?>
                 </a>
               </h3>
+              <img src="<?php echo $tecnologia["imagen"]; ?>" class="img-fluid my-2" alt="Imagen de la noticia">
               <div class="mb-1 text-muted">
                 <?php
                   echo $tecnologia["autor"];
@@ -202,6 +207,7 @@
                   ?>
                 </a>
               </h3>
+              <img src="<?php echo $ciencia["imagen"]; ?>" class="img-fluid my-2" alt="Imagen de la noticia">
               <div class="mb-1 text-muted">
                 <?php
                   echo $ciencia["autor"];
@@ -235,6 +241,7 @@
                   ?>
                 </a>
               </h3>
+              <img src="<?php echo $cultura["imagen"]; ?>" class="img-fluid my-2" alt="Imagen de la noticia">
               <div class="mb-1 text-muted">
                 <?php
                   echo $cultura["autor"];
